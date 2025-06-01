@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SrihariniMurugubalan/React_Python/static/css/main.4ae70f0d.css",
+    "main.js": "/SrihariniMurugubalan/React_Python/static/js/main.5723f6c8.js",
+    "static/js/453.45d9b29c.chunk.js": "/SrihariniMurugubalan/React_Python/static/js/453.45d9b29c.chunk.js",
+    "index.html": "/SrihariniMurugubalan/React_Python/index.html",
+    "main.4ae70f0d.css.map": "/SrihariniMurugubalan/React_Python/static/css/main.4ae70f0d.css.map",
+    "main.5723f6c8.js.map": "/SrihariniMurugubalan/React_Python/static/js/main.5723f6c8.js.map",
+    "453.45d9b29c.chunk.js.map": "/SrihariniMurugubalan/React_Python/static/js/453.45d9b29c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ae70f0d.css",
+    "static/js/main.5723f6c8.js"
+  ]
+}

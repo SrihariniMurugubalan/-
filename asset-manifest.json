@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SrihariniMurugubalan/React_Python_project.git/static/css/main.4ae70f0d.css",
-    "main.js": "/SrihariniMurugubalan/React_Python_project.git/static/js/main.ef0aff6f.js",
-    "static/js/453.45d9b29c.chunk.js": "/SrihariniMurugubalan/React_Python_project.git/static/js/453.45d9b29c.chunk.js",
-    "index.html": "/SrihariniMurugubalan/React_Python_project.git/index.html",
-    "main.4ae70f0d.css.map": "/SrihariniMurugubalan/React_Python_project.git/static/css/main.4ae70f0d.css.map",
-    "main.ef0aff6f.js.map": "/SrihariniMurugubalan/React_Python_project.git/static/js/main.ef0aff6f.js.map",
-    "453.45d9b29c.chunk.js.map": "/SrihariniMurugubalan/React_Python_project.git/static/js/453.45d9b29c.chunk.js.map"
+    "main.css": "/React_Python_project/static/css/main.4ae70f0d.css",
+    "main.js": "/React_Python_project/static/js/main.19330b23.js",
+    "static/js/453.45d9b29c.chunk.js": "/React_Python_project/static/js/453.45d9b29c.chunk.js",
+    "index.html": "/React_Python_project/index.html",
+    "main.4ae70f0d.css.map": "/React_Python_project/static/css/main.4ae70f0d.css.map",
+    "main.19330b23.js.map": "/React_Python_project/static/js/main.19330b23.js.map",
+    "453.45d9b29c.chunk.js.map": "/React_Python_project/static/js/453.45d9b29c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ae70f0d.css",
-    "static/js/main.ef0aff6f.js"
+    "static/js/main.19330b23.js"
   ]
 }

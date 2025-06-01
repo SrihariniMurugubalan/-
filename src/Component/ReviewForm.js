@@ -16,7 +16,7 @@ const ReviewForm = () => {
         }
         setError(null);
     
-        axios.post('http://127.0.0.1:5000/feedbacks', { user, comment, rating })
+        axios.post('https://python-2-2unq.onrender.com/feedbacks', { user, comment, rating })
             .then(res => {
                 alert('Feedback submitted!');
                 setUser('');

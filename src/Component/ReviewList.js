@@ -7,7 +7,7 @@ const ReviewList = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get('http://127.0.0.1:5000/feedbacks')
+    axios.get('https://python-2-2unq.onrender.com/feedbacks')
       .then(res => {
         setReviews(res.data);
         setLoading(false);
